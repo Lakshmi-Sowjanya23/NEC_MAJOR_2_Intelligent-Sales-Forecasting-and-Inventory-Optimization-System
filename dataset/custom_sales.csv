@@ -1,0 +1,101 @@
+Row ID,Order ID,Order Date,Ship Date,Customer ID,Customer Name,Segment,Region,Product ID,Product Name,Category,Sales,Quantity,Profit
+1,ORD1001,2024-03-11,2024-03-13,C001,Customer_1,Home Office,North,P001,Samsung Galaxy S24,Mobiles,34256,2,7209
+2,ORD1002,2024-01-08,2024-01-09,C002,Customer_2,Consumer,South,P002,HP Printer,Printers,33657,2,5917
+3,ORD1003,2024-04-24,2024-04-29,C003,Customer_3,Consumer,West,P003,HP Printer,Printers,41463,1,8865
+4,ORD1004,2024-02-09,2024-02-11,C004,Customer_4,Consumer,East,P004,LG Monitor,Monitors,49118,1,5595
+5,ORD1005,2024-03-08,2024-03-09,C005,Customer_5,Corporate,North,P005,Samsung Monitor,Monitors,65217,5,7742
+6,ORD1006,2024-06-07,2024-06-10,C006,Customer_6,Consumer,South,P006,Sony Camera,Cameras,80674,2,16593
+7,ORD1007,2024-02-29,2024-03-01,C007,Customer_7,Corporate,South,P007,Canon Camera,Cameras,54823,3,9210
+8,ORD1008,2024-02-23,2024-02-26,C008,Customer_8,Consumer,South,P008,LG Monitor,Monitors,89939,1,17211
+9,ORD1009,2024-04-07,2024-04-10,C009,Customer_9,Corporate,North,P009,Samsung Tab,Tablets,88886,5,11816
+10,ORD1010,2024-03-21,2024-03-25,C010,Customer_10,Home Office,East,P010,Sony Headphones,Accessories,40093,1,5278
+11,ORD1011,2024-05-07,2024-05-11,C011,Customer_11,Consumer,South,P011,JBL Speaker,Accessories,89259,4,10838
+12,ORD1012,2024-05-29,2024-06-02,C012,Customer_12,Consumer,West,P012,Sony Camera,Cameras,81484,4,12572
+13,ORD1013,2024-01-29,2024-01-31,C013,Customer_13,Corporate,North,P013,Samsung Galaxy S24,Mobiles,87240,2,19089
+14,ORD1014,2024-06-01,2024-06-05,C014,Customer_14,Consumer,North,P014,Canon Printer,Printers,74352,3,18265
+15,ORD1015,2024-03-28,2024-03-29,C015,Customer_15,Consumer,East,P015,Sony Camera,Cameras,43469,4,5378
+16,ORD1016,2024-01-28,2024-01-31,C016,Customer_16,Consumer,East,P016,Lenovo Tab,Tablets,88748,5,16981
+17,ORD1017,2024-05-15,2024-05-16,C017,Customer_17,Consumer,East,P017,Lenovo Tab,Tablets,83504,3,14470
+18,ORD1018,2024-01-15,2024-01-17,C018,Customer_18,Corporate,North,P018,Canon Camera,Cameras,79364,1,8956
+19,ORD1019,2024-06-17,2024-06-21,C019,Customer_19,Home Office,West,P019,iPad Air,Tablets,77063,2,10770
+20,ORD1020,2024-06-25,2024-06-27,C020,Customer_20,Home Office,East,P020,JBL Speaker,Accessories,45857,4,11430
+21,ORD1021,2024-04-25,2024-04-26,C021,Customer_21,Consumer,South,P021,Smart Bulb,Smart Devices,37493,2,4109
+22,ORD1022,2024-01-19,2024-01-20,C022,Customer_22,Corporate,North,P022,Sony Headphones,Accessories,35007,1,8255
+23,ORD1023,2024-06-20,2024-06-24,C023,Customer_23,Home Office,West,P023,Apple Watch,Accessories,33080,5,3964
+24,ORD1024,2024-04-14,2024-04-16,C024,Customer_24,Corporate,West,P024,Apple Watch,Accessories,17363,1,3452
+25,ORD1025,2024-01-14,2024-01-15,C025,Customer_25,Consumer,South,P025,Canon Printer,Printers,12944,4,2708
+26,ORD1026,2024-05-17,2024-05-21,C026,Customer_26,Corporate,South,P026,Sony Headphones,Accessories,23373,4,2980
+27,ORD1027,2024-05-20,2024-05-21,C027,Customer_27,Consumer,South,P027,OnePlus 13,Mobiles,11630,5,2621
+28,ORD1028,2024-05-04,2024-05-08,C028,Customer_28,Consumer,West,P028,Samsung Tab,Tablets,33016,4,7770
+29,ORD1029,2024-03-08,2024-03-12,C029,Customer_29,Home Office,West,P029,Dell Laptop,Laptops,42388,4,8667
+30,ORD1030,2024-03-16,2024-03-18,C030,Customer_30,Consumer,East,P030,iPad Air,Tablets,12665,5,2664
+31,ORD1031,2024-05-29,2024-06-02,C031,Customer_31,Home Office,North,P031,HP Laptop,Laptops,70909,5,8765
+32,ORD1032,2024-06-01,2024-06-02,C032,Customer_32,Home Office,South,P032,iPad Air,Tablets,35828,4,4227
+33,ORD1033,2024-01-21,2024-01-25,C033,Customer_33,Corporate,South,P033,Lenovo Laptop,Laptops,81503,5,14541
+34,ORD1034,2024-03-08,2024-03-12,C034,Customer_34,Consumer,North,P034,Dell Monitor,Monitors,22154,3,3734
+35,ORD1035,2024-05-24,2024-05-25,C035,Customer_35,Corporate,South,P035,Smart Bulb,Smart Devices,14602,5,1927
+36,ORD1036,2024-03-03,2024-03-06,C036,Customer_36,Home Office,East,P036,Dell Monitor,Monitors,42353,2,7019
+37,ORD1037,2024-05-21,2024-05-24,C037,Customer_37,Consumer,South,P037,Lenovo Laptop,Laptops,18577,2,2594
+38,ORD1038,2024-06-03,2024-06-05,C038,Customer_38,Corporate,West,P038,Nikon Camera,Cameras,49942,2,10144
+39,ORD1039,2024-01-24,2024-01-28,C039,Customer_39,Consumer,East,P039,Canon Camera,Cameras,41265,1,4148
+40,ORD1040,2024-04-23,2024-04-28,C040,Customer_40,Consumer,South,P040,Lenovo Tab,Tablets,61057,5,6194
+41,ORD1041,2024-05-29,2024-06-03,C041,Customer_41,Corporate,East,P041,Dell Laptop,Laptops,24410,4,2907
+42,ORD1042,2024-02-23,2024-02-25,C042,Customer_42,Corporate,South,P042,Dell Laptop,Laptops,18473,3,4008
+43,ORD1043,2024-02-15,2024-02-19,C043,Customer_43,Corporate,West,P043,Sony Headphones,Accessories,8248,2,1736
+44,ORD1044,2024-02-10,2024-02-11,C044,Customer_44,Consumer,South,P044,Apple Watch,Accessories,55140,1,12615
+45,ORD1045,2024-03-19,2024-03-21,C045,Customer_45,Corporate,East,P045,Google Nest,Smart Devices,34219,1,6809
+46,ORD1046,2024-03-12,2024-03-15,C046,Customer_46,Home Office,East,P046,Canon Camera,Cameras,89080,5,14248
+47,ORD1047,2024-03-07,2024-03-09,C047,Customer_47,Home Office,West,P047,HP Laptop,Laptops,81099,3,8575
+48,ORD1048,2024-03-21,2024-03-25,C048,Customer_48,Home Office,South,P048,Samsung Monitor,Monitors,84457,5,9910
+49,ORD1049,2024-04-21,2024-04-22,C049,Customer_49,Home Office,South,P049,Canon Camera,Cameras,73146,5,14850
+50,ORD1050,2024-01-18,2024-01-21,C050,Customer_50,Consumer,East,P050,LG Monitor,Monitors,86678,3,17292
+51,ORD1051,2024-04-14,2024-04-17,C051,Customer_51,Consumer,West,P051,Sony Camera,Cameras,57743,3,10576
+52,ORD1052,2024-02-14,2024-02-19,C052,Customer_52,Consumer,East,P052,Epson Printer,Printers,79593,3,12807
+53,ORD1053,2024-04-20,2024-04-25,C053,Customer_53,Corporate,South,P053,Canon Camera,Cameras,84516,3,14346
+54,ORD1054,2024-02-13,2024-02-14,C054,Customer_54,Home Office,East,P054,Smart Bulb,Smart Devices,42196,5,8421
+55,ORD1055,2024-06-21,2024-06-24,C055,Customer_55,Consumer,South,P055,Samsung Galaxy S24,Mobiles,34444,2,4205
+56,ORD1056,2024-01-19,2024-01-23,C056,Customer_56,Home Office,West,P056,Smart Bulb,Smart Devices,59321,5,7662
+57,ORD1057,2024-03-03,2024-03-05,C057,Customer_57,Consumer,South,P057,Google Nest,Smart Devices,5726,1,1241
+58,ORD1058,2024-05-22,2024-05-24,C058,Customer_58,Corporate,East,P058,Alexa Echo,Smart Devices,20906,4,2508
+59,ORD1059,2024-05-09,2024-05-13,C059,Customer_59,Home Office,West,P059,Smart Bulb,Smart Devices,76810,4,18018
+60,ORD1060,2024-03-04,2024-03-07,C060,Customer_60,Corporate,West,P060,Google Nest,Smart Devices,73327,4,14226
+61,ORD1061,2024-03-14,2024-03-16,C061,Customer_61,Home Office,North,P061,iPhone 16,Mobiles,40614,3,6009
+62,ORD1062,2024-02-29,2024-03-04,C062,Customer_62,Corporate,East,P062,iPad Air,Tablets,25028,2,2743
+63,ORD1063,2024-01-16,2024-01-18,C063,Customer_63,Home Office,North,P063,Google Nest,Smart Devices,60069,4,14159
+64,ORD1064,2024-01-02,2024-01-05,C064,Customer_64,Corporate,South,P064,Canon Printer,Printers,44139,4,10064
+65,ORD1065,2024-03-10,2024-03-14,C065,Customer_65,Home Office,West,P065,Alexa Echo,Smart Devices,68654,1,10869
+66,ORD1066,2024-02-02,2024-02-07,C066,Customer_66,Home Office,North,P066,Samsung Tab,Tablets,75008,1,17704
+67,ORD1067,2024-04-19,2024-04-21,C067,Customer_67,Corporate,East,P067,iPhone 16,Mobiles,65515,2,7045
+68,ORD1068,2024-03-24,2024-03-27,C068,Customer_68,Corporate,East,P068,Apple Watch,Accessories,54692,3,11638
+69,ORD1069,2024-01-05,2024-01-10,C069,Customer_69,Consumer,North,P069,OnePlus 13,Mobiles,11826,3,1580
+70,ORD1070,2024-02-21,2024-02-22,C070,Customer_70,Corporate,North,P070,HP Laptop,Laptops,86439,2,11736
+71,ORD1071,2024-06-28,2024-07-01,C071,Customer_71,Home Office,North,P071,Apple Watch,Accessories,53351,2,10183
+72,ORD1072,2024-01-28,2024-02-02,C072,Customer_72,Corporate,West,P072,Samsung Tab,Tablets,8365,3,1558
+73,ORD1073,2024-05-31,2024-06-02,C073,Customer_73,Home Office,North,P073,Sony Headphones,Accessories,18356,3,4176
+74,ORD1074,2024-05-16,2024-05-20,C074,Customer_74,Corporate,North,P074,Dell Laptop,Laptops,53571,1,9422
+75,ORD1075,2024-01-28,2024-02-01,C075,Customer_75,Corporate,South,P075,Canon Printer,Printers,52472,4,10814
+76,ORD1076,2024-05-17,2024-05-21,C076,Customer_76,Home Office,East,P076,Sony Camera,Cameras,65931,4,14759
+77,ORD1077,2024-01-23,2024-01-26,C077,Customer_77,Home Office,West,P077,Dell Monitor,Monitors,64087,2,13623
+78,ORD1078,2024-05-06,2024-05-09,C078,Customer_78,Corporate,East,P078,Dell Monitor,Monitors,28834,4,3800
+79,ORD1079,2024-06-28,2024-07-01,C079,Customer_79,Consumer,North,P079,Sony Camera,Cameras,77848,1,13817
+80,ORD1080,2024-04-14,2024-04-18,C080,Customer_80,Home Office,West,P080,JBL Speaker,Accessories,77768,2,15832
+81,ORD1081,2024-01-24,2024-01-27,C081,Customer_81,Corporate,East,P081,Alexa Echo,Smart Devices,34045,4,6937
+82,ORD1082,2024-05-15,2024-05-18,C082,Customer_82,Home Office,West,P082,Smart Bulb,Smart Devices,60771,5,9092
+83,ORD1083,2024-03-05,2024-03-07,C083,Customer_83,Home Office,South,P083,Nikon Camera,Cameras,20814,2,3066
+84,ORD1084,2024-05-03,2024-05-06,C084,Customer_84,Consumer,South,P084,Sony Headphones,Accessories,82278,5,15593
+85,ORD1085,2024-04-02,2024-04-04,C085,Customer_85,Consumer,East,P085,Canon Camera,Cameras,44618,1,9200
+86,ORD1086,2024-05-21,2024-05-24,C086,Customer_86,Consumer,East,P086,HP Laptop,Laptops,21551,4,2486
+87,ORD1087,2024-04-22,2024-04-25,C087,Customer_87,Corporate,North,P087,Google Nest,Smart Devices,29164,1,4020
+88,ORD1088,2024-05-05,2024-05-06,C088,Customer_88,Home Office,East,P088,OnePlus 13,Mobiles,80631,1,9898
+89,ORD1089,2024-01-31,2024-02-05,C089,Customer_89,Home Office,South,P089,Samsung Galaxy S24,Mobiles,59548,5,11279
+90,ORD1090,2024-04-23,2024-04-26,C090,Customer_90,Home Office,North,P090,Canon Printer,Printers,82139,4,11976
+91,ORD1091,2024-06-09,2024-06-11,C091,Customer_91,Consumer,North,P091,Samsung Galaxy S24,Mobiles,39687,1,4903
+92,ORD1092,2024-04-14,2024-04-18,C092,Customer_92,Consumer,East,P092,iPad Air,Tablets,82832,4,11902
+93,ORD1093,2024-04-26,2024-04-27,C093,Customer_93,Home Office,South,P093,Sony Camera,Cameras,35595,3,7765
+94,ORD1094,2024-05-19,2024-05-21,C094,Customer_94,Consumer,North,P094,HP Printer,Printers,89886,2,21236
+95,ORD1095,2024-03-19,2024-03-24,C095,Customer_95,Corporate,East,P095,HP Laptop,Laptops,79607,3,13204
+96,ORD1096,2024-05-08,2024-05-13,C096,Customer_96,Consumer,West,P096,Canon Printer,Printers,69722,4,7813
+97,ORD1097,2024-03-05,2024-03-06,C097,Customer_97,Home Office,North,P097,Samsung Monitor,Monitors,16970,2,4145
+98,ORD1098,2024-01-11,2024-01-13,C098,Customer_98,Corporate,South,P098,Sony Camera,Cameras,66669,5,13182
+99,ORD1099,2024-05-05,2024-05-06,C099,Customer_99,Corporate,North,P099,Epson Printer,Printers,66605,3,10740
+100,ORD1100,2024-04-15,2024-04-19,C100,Customer_100,Home Office,North,P100,Samsung Tab,Tablets,42777,4,9497

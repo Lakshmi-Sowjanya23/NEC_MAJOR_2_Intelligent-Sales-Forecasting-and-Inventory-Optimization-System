@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+dataset/processed_sales.csv
+dataset/uploaded_sales.csv
+
+models/trained_model.pkl
+
+outputs/reports/
+
+.idea/
+.vscode/
