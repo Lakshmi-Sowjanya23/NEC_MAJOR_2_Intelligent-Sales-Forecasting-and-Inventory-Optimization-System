@@ -1,3 +1,4 @@
+import os
 import joblib
 import pandas as pd
 
@@ -159,6 +160,11 @@ def get_forecast_metrics(
 def save_forecast_results(
     forecast_df
 ):
+
+    os.makedirs(
+        "outputs/reports",
+        exist_ok=True
+    )
 
     forecast_df.to_csv(
         "outputs/reports/forecast_results.csv",
