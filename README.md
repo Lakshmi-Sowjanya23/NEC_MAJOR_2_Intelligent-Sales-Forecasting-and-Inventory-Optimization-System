@@ -6,7 +6,7 @@ A Streamlit-based machine learning platform for sales forecasting, inventory opt
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** *(Add Render/Streamlit deployment link here)*
+https://nec-major-2-intelligent-sales.onrender.com
 
 ---
 
