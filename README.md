@@ -12,61 +12,9 @@ https://nec-major-2-intelligent-sales.onrender.com
 
 ## 📷 Output
 
-### Home Page
-
 <p align="center">
   <img src="outputs/home.png" width="900">
 </p>
-
-### Data Upload
-
-<p align="center">
-  <img src="outputs/data_upload.png" width="900">
-</p>
-
-### Data Preprocessing
-
-<p align="center">
-  <img src="outputs/data_preprocessing.png" width="900">
-</p>
-
-### EDA Analysis
-
-<p align="center">
-  <img src="outputs/eda_analysis.png" width="900">
-</p>
-
-### Model Training
-
-<p align="center">
-  <img src="outputs/model_training.png" width="900">
-</p>
-
-### Sales Forecasting
-
-<p align="center">
-  <img src="outputs/sales_forecasting.png" width="900">
-</p>
-
-### Inventory Optimization
-
-<p align="center">
-  <img src="outputs/inventory_optimization.png" width="900">
-</p>
-
-### Reports
-
-<p align="center">
-  <img src="outputs/reports.png" width="900">
-</p>
-
-### Dashboard
-
-<p align="center">
-  <img src="outputs/dashboard.png" width="900">
-</p>
-
----
 
 ## 📌 Features
 
