@@ -1,3 +1,4 @@
+import pandas as pd
 import plotly.express as px
 
 
@@ -5,6 +6,22 @@ import plotly.express as px
 # MONTHLY SALES TREND
 # --------------------------------------------------
 def create_monthly_sales_trend(df):
+
+    df = df.copy()
+
+    if "Month" not in df.columns:
+
+        if "Order Date" in df.columns:
+
+            df["Order Date"] = pd.to_datetime(
+                df["Order Date"],
+                errors="coerce"
+            )
+
+            df["Month"] = (
+                df["Order Date"]
+                .dt.month_name()
+            )
 
     monthly_sales = (
         df.groupby("Month")["Sales"]
@@ -27,6 +44,22 @@ def create_monthly_sales_trend(df):
 # MONTHLY PROFIT TREND
 # --------------------------------------------------
 def create_monthly_profit_trend(df):
+
+    df = df.copy()
+
+    if "Month" not in df.columns:
+
+        if "Order Date" in df.columns:
+
+            df["Order Date"] = pd.to_datetime(
+                df["Order Date"],
+                errors="coerce"
+            )
+
+            df["Month"] = (
+                df["Order Date"]
+                .dt.month_name()
+            )
 
     monthly_profit = (
         df.groupby("Month")["Profit"]
