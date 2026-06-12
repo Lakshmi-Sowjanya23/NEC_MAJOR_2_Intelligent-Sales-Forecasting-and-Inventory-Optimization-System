@@ -10,8 +10,6 @@ https://nec-major-2-intelligent-sales.onrender.com
 
 ---
 
----
-
 ## 📷 Output
 
 ### Home Page
